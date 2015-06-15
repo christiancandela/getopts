@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!--
-### Copyright (C) 2001-2012 Michael Fuchs ###
+### Copyright (C) 2001-2015 Michael Fuchs ###
 -->
 <project name="org.dbdoclet.getopts" default="build">
 
